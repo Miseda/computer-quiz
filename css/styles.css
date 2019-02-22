@@ -10,6 +10,7 @@ button {
 }
 .edit {
   display: none;
+  background-color: orange;
 }
 nav{
   padding: 20px;
