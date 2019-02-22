@@ -11,3 +11,37 @@ button {
 .edit {
   display: none;
 }
+nav{
+  padding: 20px;
+  background-color: orange;
+  text-align: right;
+}
+nav a{
+  text-decoration: none;
+  padding: inherit;
+  font-family: sans-serif;;
+}
+nav a:hover{
+  text-decoration: none;
+  color: black;
+
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.size {
+  float: right;
+  width: 50%;
+}
+
+.paragraph {
+  border-radius: 10px;
+  font-style: italic;
+  font-weight: bold;
+  background-color: orange;
+  font-size: 15px;
+  float: left;
+  width: 50%
+}
