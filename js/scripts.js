@@ -10,6 +10,6 @@ $(document).ready(function() {
 
 
    var total=q1+q2+q3+q4+q5;
-   $("#output").text("Your Answer is " + total + " out of 10");
+   $("#output").text("You scored " + total + " out of 10");
  });
 });

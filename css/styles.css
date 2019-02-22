@@ -4,3 +4,10 @@ button {
 .font {
   text-align: center;
 }
+<body {
+  background-color: grey;
+  font-family: sans-serif;
+}
+.edit {
+  display: none;
+}
