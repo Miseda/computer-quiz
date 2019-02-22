@@ -1,5 +1,5 @@
 button {
-  background-color: skyblue;
+  background-color: orange;
 }
 .font {
   text-align: center;
@@ -33,7 +33,7 @@ h1 {
 
 .size {
   float: right;
-  width: 50%;
+  width: 40%;
 }
 
 .paragraph {
