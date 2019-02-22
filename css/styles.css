@@ -1,5 +1,5 @@
 button {
-  background-color: lightgreen;
+  background-color: skyblue;
 }
 .font {
   text-align: center;
@@ -13,7 +13,7 @@ button {
   background-color: orange;
 }
 nav{
-  padding: 20px;
+  padding: 10px;
   background-color: orange;
   text-align: right;
 }
@@ -45,4 +45,12 @@ h1 {
   font-size: 20px;
   float: left;
   width: 50%
+}
+img {
+  width: 100px;
+  border-radius: 10px;
+}
+#home{
+  position: relative;
+  left: 600px;
 }
